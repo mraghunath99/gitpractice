@@ -2,7 +2,7 @@ node
 {
 stage("scm")
 {
-  git 'https://github.com/mraghunath99/gitpractice.git'  
+  git 'https://github.com/mraghunath99/gitpractice.git' 
 }
 stage("build")
 {
